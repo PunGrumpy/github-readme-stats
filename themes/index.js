@@ -462,6 +462,13 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  dullahan: {
+    title_color: "F1F1F1",
+    text_color: "2B4FFF",
+    icon_color: "A52AFF",
+    border_color: "28B9FF",
+    bg_color: "1B1B1B",
+  },
 };
 
 export default themes;
