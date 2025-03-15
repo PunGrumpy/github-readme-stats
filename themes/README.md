@@ -41,7 +41,7 @@ Use `?theme=THEME_NAME` parameter like so:
 | `date_night` ![date_night][date_night] | `one_dark_pro` ![one_dark_pro][one_dark_pro] | `rose` ![rose][rose] |
 | `holi` ![holi][holi] | `neon` ![neon][neon] | `blue_navy` ![blue_navy][blue_navy] |
 | `calm_pink` ![calm_pink][calm_pink] | `ambient_gradient` ![ambient_gradient][ambient_gradient] | `dullahan` ![dullahan][dullahan] |
-| [Add your theme][add-theme] | | |
+| `vesper` ![vesper][vesper] |  | [Add your theme][add-theme] |
 
 ## Repo Card
 
@@ -74,7 +74,7 @@ Use `?theme=THEME_NAME` parameter like so:
 | `date_night` ![date_night][date_night_repo] | `one_dark_pro` ![one_dark_pro][one_dark_pro_repo] | `rose` ![rose][rose_repo] |
 | `holi` ![holi][holi_repo] | `neon` ![neon][neon_repo] | `blue_navy` ![blue_navy][blue_navy_repo] |
 | `calm_pink` ![calm_pink][calm_pink_repo] | `ambient_gradient` ![ambient_gradient][ambient_gradient_repo] | `dullahan` ![dullahan][dullahan_repo] |
-| [Add your theme][add-theme] | | |
+| `vesper` ![vesper][vesper_repo] |  | [Add your theme][add-theme] |
 
 
 [default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
@@ -153,6 +153,7 @@ Use `?theme=THEME_NAME` parameter like so:
 [calm_pink]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=calm_pink
 [ambient_gradient]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient
 [dullahan]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dullahan
+[vesper]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vesper
 
 
 [default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -231,6 +232,7 @@ Use `?theme=THEME_NAME` parameter like so:
 [calm_pink_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=calm_pink
 [ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
 [dullahan_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=dullahan
+[vesper_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=vesper
 
 
 [add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js

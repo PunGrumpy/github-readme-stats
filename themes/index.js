@@ -469,6 +469,13 @@ export const themes = {
     border_color: "28B9FF",
     bg_color: "1B1B1B",
   },
+  vesper: {
+    title_color: "FFC799",
+    text_color: "FFFFFF",
+    icon_color: "99FFE4",
+    border_color: "A0A0A0",
+    bg_color: "101010",
+  },
 };
 
 export default themes;
